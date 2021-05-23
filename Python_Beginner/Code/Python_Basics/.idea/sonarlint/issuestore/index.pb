@@ -1,0 +1,21 @@
+
+V
+&2_Functions/learn/1_use_of_help_fun.py,7/9/799f1b4e47bb7dc9519cd9a760c775f44204f4d4
+m
+=2_Functions/learn/2_1_find_least_difference_with_docstring.py,c/e/ce472b8f1b80478fc5bb9c36cb4176c88e415390
+\
+,2_Functions/learn/2_find_least_difference.py,d/b/dbda9b1a35b3432a83286d2175f18a7ee5542053
+^
+.2_Functions/learn/3_function_without_return.py,e/f/efdf431cb17e39317daf102106ed1d29200f1c9d
+X
+(2_Functions/learn/4_default_arguments.py,9/9/99bd42b03ec54c60648774730beaf6cce5d89f33
+m
+=2_Functions/learn/5_Optional_arguments_with_default_values.py,d/3/d37b2d0ad8e5a77878227bbd9dc41623c94fc480
+e
+52_Functions/learn/6_functions_applied_to_functions.py,7/d/7d875069eaa88dcb64cc50d9e761e800d60d0dd6
+V
+&2_Functions/learn/7_argmax_function.py,0/7/07364d266a723e4449e893969ade93c84516b51c
+n
+>2_Functions/exercise/ex2_candies_to_smash_with_optional_arg.py,6/4/645c336a0cb07468472e7ff47143d226393d1623
+O
+2_Functions/functions_readme.md,1/d/1d1d9771e0bad882c38e9c6a5f753f5fb6a871bc
